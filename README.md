@@ -1,6 +1,7 @@
 # final_app
 
-A new Flutter application.
+Ujas Majithiya(17IT048)
+Jigar Modi(17IT055)
 
 ## Getting Started
 
