@@ -1,4 +1,4 @@
-# final_app
+# Online vehicle service system
 
 Ujas Majithiya(17IT048)
 Jigar Modi(17IT055)
