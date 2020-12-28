@@ -21,7 +21,7 @@ class AuthService {
     try{
       AuthResult result = await _auth.signInWithEmailAndPassword(email: email, password: password);
       FirebaseUser user = result.user;
-      
+      // UserCredential is new AuthResult and User is new FirebaseUser
       return _userFromFirebaseUser(user);
     }catch(e){
       print(e.toString());
